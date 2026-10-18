@@ -1687,7 +1687,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470Ω"
 			(at 210.82 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1768,7 +1768,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED 5mm"
 			(at 224.4725 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1938,7 +1938,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NPN_BCE"
+		(property "Value" "2N3904 transistor"
 			(at 231.14 142.2399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2045,7 +2045,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3"
+		(property "Value" "CR2032 (3V)"
 			(at 170.18 85.7884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2160,7 +2160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470Ω"
 			(at 227.33 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2241,7 +2241,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED 5mm"
 			(at 207.9625 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2411,7 +2411,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NPN_BCE"
+		(property "Value" "2N3904 transistor"
 			(at 207.01 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2518,7 +2518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7kΩ"
 			(at 191.77 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2600,7 +2600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Photo"
+		(property "Value" "Photoresistor (LDR)"
 			(at 229.87 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2761,7 +2761,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "47kΩ"
 			(at 217.17 138.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
