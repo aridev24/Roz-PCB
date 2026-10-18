@@ -1,4 +1,4 @@
-# Roz-PCB:
+# Roz-PCB By AriDev24:
 
 This is my first PCB, or you can also say my first ever hardware project that I ever made. In the beginning, I was scared to make it because it was so complex, but after some time It started to get fun. But that does not mean it got easier; it was still complex and gave me a headache. I never thought that I would be able to make a PCB as my first hardware project. 
 
